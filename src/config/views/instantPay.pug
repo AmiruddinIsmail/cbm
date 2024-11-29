@@ -1,0 +1,29 @@
+doctype html
+html
+    head
+        title= title
+
+
+    body
+        h1= status 
+        h2= msg
+
+
+    script.
+        const status = "#{status}";
+        let url = decodeURI("#{url}");
+
+        if(status == 'Success'){
+        const pattern = /&amp;/g;
+        const replacement = "&";
+        url = url.replaceAll(pattern,replacement);
+        }
+
+
+        const myTimeout = setTimeout(() => {
+            window.location.assign(url)
+        }, 10000000)
+
+   
+
+        

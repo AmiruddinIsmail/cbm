@@ -1,0 +1,25 @@
+<Request>
+    <SystemID>SCBS</SystemID>
+    <Service>INDDTLRPTS</Service>
+    <ReportType>ICR</ReportType>
+    <MemberID>CP06653</MemberID>
+    <UserID>PCP066530003</UserID>
+    <ReqNo></ReqNo>
+    <SequenceNo>001</SequenceNo>
+    <ReqDate>17/11/2022 17:18:20</ReqDate>
+    <PurposeStdCode>CREREV</PurposeStdCode>
+    <CostCenterStdCode></CostCenterStdCode>
+    <ConsentFlag></ConsentFlag>
+    <Subject>
+        <IdNo1>660519025532</IdNo1>
+        <IdNo2></IdNo2>
+        <Name>ROSINI BINTI CHE ROS</Name>
+        <Dob>19/05/1966</Dob>
+        <ConstitutionTypeStdCode>11</ConstitutionTypeStdCode>
+        <EmailAddr></EmailAddr>
+        <MobileNo></MobileNo>
+        <NationalityStdCode>MY</NationalityStdCode>
+        <EntityCode></EntityCode>
+        <TradeEntityCode></TradeEntityCode>
+    </Subject>
+</Request>

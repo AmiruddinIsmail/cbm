@@ -1,0 +1,25 @@
+<Request>
+    <SystemID>SCBS</SystemID>
+    <Service>INDDTLRPTS</Service>
+    <ReportType>ICR-S</ReportType>
+    <MemberID>AA0001</MemberID>
+    <UserID>AA00010001</UserID>
+    <ReqNo></ReqNo>
+    <SequenceNo>001</SequenceNo>
+    <ReqDate></ReqDate>
+    <PurposeStdCode></PurposeStdCode>
+    <CostCenterStdCode></CostCenterStdCode>
+    <ConsentFlag></ConsentFlag>
+    <Subject>
+        <IdNo1></IdNo1>
+        <IdNo2></IdNo2>
+        <Name></Name>
+        <Dob></Dob>
+        <ConstitutionTypeStdCode></ConstitutionTypeStdCode>
+        <EmailAddr>XXXXXXXX</EmailAddr>
+        <MobileNo>XXXXXXXXXXX</MobileNo>
+        <NationalityStdCode></NationalityStdCode>
+        <EntityCode></EntityCode>
+        <TradeEntityCode></TradeEntityCode>
+    </Subject>
+</Request>

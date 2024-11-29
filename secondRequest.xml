@@ -1,0 +1,32 @@
+<Request>
+    <SystemID>SCBS</SystemID>
+    <Service>INDDTLRPTS</Service>
+    <ReportType>ICR</ReportType>
+    <MemberID>CP06653</MemberID>
+    <UserID>PCP066530003</UserID>
+    <ReqNo>20221121539178</ReqNo>
+    <SequenceNo>004</SequenceNo>
+    <ReqDate>21/11/2022 15:18:20</ReqDate>
+    <PurposeStdCode>CREREV</PurposeStdCode>
+    <CostCenterStdCode></CostCenterStdCode>
+    <ConsentFlag>Y</ConsentFlag>
+    <Subject>
+        <IdNo1>660519025532</IdNo1>
+        <IdNo2>A0425532</IdNo2>
+        <Name>ROSINI BIN</Name>
+        <Dob>19/05/1966</Dob>
+        <ConstitutionTypeStdCode>011</ConstitutionTypeStdCode>
+        <ConstitutionType>Individual</ConstitutionType>
+        <NationalityStdCode>MY</NationalityStdCode>
+        <EmailAddr></EmailAddr>
+        <MobileNo></MobileNo>
+        <EntityCode>1472725</EntityCode>
+        <TradeEntityCode></TradeEntityCode>
+        <Warning></Warning>
+        <Vehicle1></Vehicle1>
+        <Vehicle2></Vehicle2>
+        <Vehicle3></Vehicle3>
+        <Vehicle4></Vehicle4>
+        <Vehicle5></Vehicle5>
+    </Subject>
+</Request>
